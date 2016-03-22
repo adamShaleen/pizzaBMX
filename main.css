@@ -1,0 +1,36 @@
+
+*{
+  font-family: 'Raleway';
+}
+
+.main h1 {
+  font-size: 5vw;
+  position: absolute;
+  top: 2px;
+  left: 50px;
+}
+
+.main img {
+  height:100%;
+  width: 100%;
+
+}
+.links li {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+#pubdate {
+  float: right;
+  clear: both;
+}
+
+
+.pizza {
+  font-size: 60px;
+  position: absolute;
+  top: 2px;
+  left: 50px;
+}
